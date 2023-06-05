@@ -1,4 +1,4 @@
-# teoria-musical
+# Teoria Musical
 Tainha sobre teoria musical
 
 Os slides foram desenvolvidos utiliznado o [Slidev](https://github.com/slidevjs/slidev)!

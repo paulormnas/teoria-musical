@@ -29,6 +29,6 @@ transition: slide-left
     </div>
     <br>
     <span class="text-justify">
-        Para identificar as notas além da escala maior foram criados os sustenido (#) e bemol (b). Essa notação é utilizada para denotar um semitom entre duas notas. Por exemplo, Entre C e D nós temos o C#, pois na escala maior o intervalo entre C e D é de um tom. A notação vai depender de como se está caminhando na escala, ou seja, se o músico está subindo uma oitava na escala então representamos com sustenido, caso contrário representamos com bemol. No exemplo entr C e D podemos representar como C# ou Db, porém os dois representam a mesma nota musical.
+        Para identificar as notas além da escala maior foram criados os sustenido (#) e bemol (b). Essa notação é utilizada para denotar um semitom entre duas notas. Por exemplo, Entre C e D nós temos o C#, pois na escala maior o intervalo entre C e D é de um tom. A notação vai depender de como se está caminhando na escala, ou seja, se o músico está subindo uma oitava na escala então representamos com sustenido, caso contrário representamos com bemol. No exemplo entre C e D podemos representar como C# ou Db, porém os dois representam a mesma nota musical.
     </span>
 </div>
